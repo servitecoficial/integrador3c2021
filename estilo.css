@@ -1,0 +1,14 @@
+ h1 {
+     color: cadetblue; 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h2 {
+
+    color: cadetblue;
+ }
+
+ #subtTit {
+     background-color: darkkhaki;
+ }
+
+ label {font-style: italic;}
